@@ -1,4 +1,7 @@
+# Airplane Food Ordering App
+![Installation Steps](https://github.com/pulkitkhatter/Food-website-ALLoHealth/blob/main/Screenshot%202024-07-11%20173529.png)
 ## Installation
+
 1. Install dependencies:
     ```sh
     cd foodclient
